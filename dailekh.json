@@ -1,0 +1,70 @@
+[
+    {
+        "title": "​Athabis Education Campus",
+        "slug": "athabis-education-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tilepata, Aathabis, Dailekh",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chamunda College",
+        "slug": "chamunda-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chamunda, Chamunda Bindrasaini, Dailekh",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Narayan Multiple Campus",
+        "slug": "narayan-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Narayan, Dailekh",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "Dronachal Campus",
+        "slug": "dronachal-education-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dullu, Dullu, Dailekh",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Natural Resource and Management, Dullu",
+        "slug": "college-of-natural-resource-and-management-dullu",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dullu, Dailekh",
+        "affiliations": []
+    }
+]

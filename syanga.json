@@ -1,0 +1,314 @@
+[
+    {
+        "title": "Kali Gandaki Campus",
+        "slug": "kali-gandaki-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birgha, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dahathum Multiple Campus",
+        "slug": "dahathum-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Darshing, Dahathum VDC-9, Dahathum, Bhirkot, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janapradeep Multiple Campus",
+        "slug": "janapradeep-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Aandhikhola, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Panchakanya Multiple Campus",
+        "slug": "panchakanya-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Arjunchaupari, Arjunchaupari, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tribhuvan Aadarsha Campus",
+        "slug": "tribhuvan-aadarsha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Putalibazar, Putalibazar, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Radhadamodar Sanskrit Vidyapeeth",
+        "slug": "radhadamodar-sanskrit-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Keladighat, Chapakot, Syangja",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Pradhumna Paneru Multiple Campus",
+        "slug": "pradhumna-paneru-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Setidhobhan, Aandhikhola, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mirmee Multiple Campus",
+        "slug": "mirmee-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gandaki-8, Mirmee, Kaligandagi, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Balshidda Campus",
+        "slug": "balshidda-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Keware, Waling, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Galyang Multiple Campus",
+        "slug": "galyang-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Galyang-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Galyang Bazar, Galyang, Galyang, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chapakot Campus",
+        "slug": "chapakot-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chapakot, Chapakot, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Malunga Sarbajanik Multiple Campus",
+        "slug": "malunga-sarbajanik-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Malunga, Galyang, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kalika Multiple Campus, Syangja",
+        "slug": "kalika-multiple-campus-syangja",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Balmata, Bhirkot, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Siddhartha Community Multiple Campus",
+        "slug": "siddhartha-samudayik-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Phedikhola-2, Phedikhola, Phedikhola, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Waling Multiple Campus",
+        "slug": "waling-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/waling-multiple-campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Waling, Syangja",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kolma Barahachaur Samudayik Campus",
+        "slug": "kolma-barahachaur-samudayik-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kolma 6, Kolma, Putalibazar, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Aalamdevi Banijya Campus",
+        "slug": "aalamdevi-banijya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kotakot, Mirmi, Kaligandagi, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pioneers' Multiple Campus",
+        "slug": "pioneers-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Waling, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepal Adarsh Campus",
+        "slug": "nepal-adarsh-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Waling, Syangja",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Syangja Multiple Campus",
+        "slug": "syanja-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "syangja Bazar, Putalibazar, Syangja",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

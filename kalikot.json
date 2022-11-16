@@ -1,0 +1,47 @@
+[
+    {
+        "title": "​Jana Chetana Multiple Campus",
+        "slug": "jana-chetana-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sanni Tribeni, Kalikot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nanda Devi Multiple Campus",
+        "slug": "nanda-devi-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kotbada, Naraharinath, Kalikot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tila Karnali Multiple Campus",
+        "slug": "tila-karnali-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tadi, Manma, Khandachakra, Kalikot",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "title": "Purwanchal Campus | Institute of Engineering",
+        "slug": "eastern-region-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Purwanchal-Campus-Dharan-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Central Campus of Technology",
+        "slug": "central-campus-of-technology",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Central-Campus-of-Technology-Dharan-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Hattisar, Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "B P Koirala Institute of Health Sciences",
+        "slug": "b-p-koirala-institute-health-sciences",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/B.P.-Koirala-Institute-of-Health-Sciences-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "BPKIHS",
+                "slug": "bpkihs",
+                "org_type_lower": "university",
+                "short_name": "bpkihs"
+            }
+        ]
+    },
+    {
+        "title": "Balaha Multiple Campus",
+        "slug": "balaha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Inaruwa, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janta Multiple Campus",
+        "slug": "janata-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/janta-multiple-campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Itahari, Sunsari",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rastriya Janasahayog College",
+        "slug": "rastriya-janasahayog-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Rastriya-Janasahayog-College-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Hansposa, Itahari, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sunsari Multiple Campus",
+        "slug": "sunsari-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Inaruwa, Sunsari",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pindeshwor Vidyapeeth",
+        "slug": "pindeshwor-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Mahendra Multiple Campus, Dharan",
+        "slug": "mahendra-multiple-campus-dharan",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Mahendra-Multiple-Campus-Dharan2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Nursing | BP Koirala Institute of Health Sciences",
+        "slug": "college-of-nursing-bp-koirala-institute-of-health-sciences",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "BPKIHS",
+                "slug": "bpkihs",
+                "org_type_lower": "university",
+                "short_name": "bpkihs"
+            }
+        ]
+    },
+    {
+        "title": "Dharan City College",
+        "slug": "dharan-city-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Koshi Saint James College",
+        "slug": "koshi-saint-james-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Itahari-8, Itahari, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "National Multiple College, Dharan",
+        "slug": "national-multiple-college-dharan",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Vishwa Adarsha College",
+        "slug": "vishwa-adarsha-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Itahari, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sushma Godawari College",
+        "slug": "sushma-godawari-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Itahari, Sunsari",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            }
+        ]
+    },
+    {
+        "title": "Green Peace Lincoln College",
+        "slug": "green-peace-lincoln-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Itahari, Sunsari",
+        "affiliations": [
+            {
+                "title": "Lincoln University College",
+                "slug": "lincoln-university",
+                "org_type_lower": "university",
+                "short_name": "lincoln"
+            }
+        ]
+    },
+    {
+        "title": "Kasturi College of Management",
+        "slug": "kasturi-college-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Itahari- 8 ( B.P. Chowk ), Itahari, Sunsari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dharan College of Management",
+        "slug": "dharan-college-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhupi Marg, Dharan - 4, Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kasturi College",
+        "slug": "kasturi-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Itahari-5, Itahari, Sunsari",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "National Academy of Applied Science and Technology (NAAST College)",
+        "slug": "national-academy-applied-science-and-technology",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dharan, Sunsari",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            }
+        ]
+    }
+]

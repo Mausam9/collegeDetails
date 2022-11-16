@@ -1,0 +1,314 @@
+[
+    {
+        "title": "Janapriya Multiple Campus",
+        "slug": "janapriya-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/janapriya-multiple-campus-cover-edusanjal-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Informatics College Pokhara",
+        "slug": "informatics-college-pokhara",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/informatics_college_ztU6SN1-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Matepani, Pokhara-12, Pokhara, Kaski",
+        "affiliations": [
+            {
+                "title": "London Metropolitan University",
+                "slug": "london-metropolitan-university",
+                "org_type_lower": "university",
+                "short_name": "Londonmet"
+            }
+        ]
+    },
+    {
+        "title": "Fishtail Mountain School of Hospitality, Tourism and Management",
+        "slug": "fishtail-mountain-school-of-hospitality-tourism-and-management",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Fishtail_Mountain_Cover_Photo-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/IMG_20220329_123759-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "Mustang Chowk, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Taylor's University, Malaysia",
+                "slug": "taylors-university-malaysia",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pashchimanchal Campus | Institute of Engineering",
+        "slug": "western-region-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Paschimanchal-Campus-Pokhara-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lamachaur, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gandaki College of Engineering and Science",
+        "slug": "gandaki-college-engineering-and-sciences",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Gandaki-College-of-Engineering-and-Science-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lamachaur, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Prithvi Narayan Campus",
+        "slug": "prithvi-narayan-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/pn-campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bagar, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kalika Multiple Campus",
+        "slug": "kalika-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/kalika-multiple-campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kajipokhari, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Development and Social Engineering | Pokhara University",
+        "slug": "pokhara-university-school-of-development-and-social-engineering",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/School-of-Development-and-Social-Engineering4-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhungepatan, Khudi, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "School of Health and Allied Sciences | Pokhara University",
+        "slug": "pokhara-university-school-of-health-and-allied-sciences",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/PU-School-of-Health--Allied-Sciences2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhungepatan, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "School of Engineering | Pokhara University",
+        "slug": "pokhara-university-school-of-engineering",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/School-of-Engineering2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Pokhara Campus | Institute of Forestry",
+        "slug": "institute-forestry-pokhara-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Pokhara-Campus-Pokhara-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Hariyokharka, Pokhara, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Himalaya Eye Hospital",
+        "slug": "himalaya-eye-hospital",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Himalaya_Eye_Institute-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Pardi Bazaar, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "​Shiva Shakti Campus",
+        "slug": "shiva-shakti-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Phoolbari, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jana Prakash Multiple Campus",
+        "slug": "jana-prakash-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lekhnath-1, Bhandaridhik, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kanya Campus Pokhara",
+        "slug": "kanya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nadipur, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Laxmi Adarsha Multiple Campus",
+        "slug": "laxmi-adarsha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kabi Shiromani Lekhnath Marga, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhadrakali Multiple Campus",
+        "slug": "bhadrakali-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Bhadrakali-Multiple-Campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kundahar, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Bindhyabasini Campus",
+        "slug": "bindhyabasini-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Batulechaur, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gupteshwor Mahadev Multiple Campus",
+        "slug": "gupteshwor-mahadev-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/gupteshwor-mahadevmultiple-campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Chhorepatan, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kalika Public College",
+        "slug": "kalika-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rambazar, Pokhara, Pokhara Lekhnath, Kaski",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Sinam Multiple Campus",
+        "slug": "sinam-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Sinam-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sirijangha, Taplejung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pathibhara Multiple Campus",
+        "slug": "pathibhara-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Phuiling, Taplejung",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

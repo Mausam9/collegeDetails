@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Sisne Shiksha Campus",
+        "slug": "sisne-shiksha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rukumkot, Sisne, Eastern Rukum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "title": "Nepal Business College",
+        "slug": "nepal-business-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Nepal-Business-College-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Buddha Bihar Marga, Janpath Tole, Biratnagar, Morang",
+        "affiliations": [
+            {
+                "title": "Lincoln University College",
+                "slug": "lincoln-university",
+                "org_type_lower": "university",
+                "short_name": "lincoln"
+            }
+        ]
+    },
+    {
+        "title": "Itahari International College",
+        "slug": "itahari-international-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sundar Dulari – 10, Sundar Dulari, Ratuwamai, Morang",
+        "affiliations": [
+            {
+                "title": "London Metropolitan University",
+                "slug": "london-metropolitan-university",
+                "org_type_lower": "university",
+                "short_name": "Londonmet"
+            }
+        ]
+    },
+    {
+        "title": "Post Graduate (Degree) Campus Biratnagar",
+        "slug": "post-graduate-campus-biratnagar",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Post-Graduate-Campus-Biratnagar-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Biratnagar, Morang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Medical and Allied Sciences | Purbanchal University",
+        "slug": "purbanchal-university-college-medical-and-allied-sciences",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gothgaun, Sundarharaicha, Morang",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Management | Purbanchal University",
+        "slug": "management-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Biratnagar, Morang",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Engineering  | Purbanchal University",
+        "slug": "purbanchal-university-school-engineering-and-technology",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Biratnagar, Morang",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Biratnagar Nursing Campus",
+        "slug": "biratnagar-nursing-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Biratnagar-Nursing-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Biratnagar, Morang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Environment and Forestry | Purbanchal University",
+        "slug": "purbanchal-university-college-environment-and-forestry",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gothgaun, Sundarharaicha, Morang",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Engineering - Manmohan Technical University",
+        "slug": "school-of-engineering-manmohan-technical-university",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Budhiganga-4, Biratnagar, Budhiganga, Morang",
+        "affiliations": [
+            {
+                "title": "Manmohan Technical University",
+                "slug": "manmohan-technical-university",
+                "org_type_lower": "university",
+                "short_name": "MTU"
+            }
+        ]
+    },
+    {
+        "title": "School of Science and Technology | Purbanchal University",
+        "slug": "school-of-science-and-technology-purbanchal-university",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Biratnagar, Morang",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sautha Multiple Campus",
+        "slug": "sautha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sijawa, Ratuwamai, Morang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gograha College",
+        "slug": "gograha-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Biratnagar, Morang",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Letang Campus",
+        "slug": "letang-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Letang, Letang, Morang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Belbari Multiple Campus",
+        "slug": "belbari-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Belbari-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Belbari, Morang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janata Campus Morang",
+        "slug": "janata-campus-morang",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rangeli, Rangeli, Morang",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ramailo Campus",
+        "slug": "ramailo-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bayarbana Keraun, Bayarbana, Kanepokhari, Morang",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Urlabari Campus",
+        "slug": "urlabari-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Urlabari, Uralabari, Morang",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Madan Bhandari Memorial Academy",
+        "slug": "madan-bhandari-memorial-academy",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Madan-Bhandari-Memorial-Academy-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Mangalbare, Urlabari, Uralabari, Morang",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            },
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            }
+        ]
+    },
+    {
+        "title": "Sukuna Multiple Campus",
+        "slug": "sukuna-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/sukuna-multiple-college-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Indrapur, Sundarharaicha, Morang",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pathari Multiple Campus",
+        "slug": "pathari-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Pathari, Patahrishanishchare, Morang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

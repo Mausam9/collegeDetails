@@ -1,0 +1,332 @@
+[
+    {
+        "title": "Thames International College",
+        "slug": "thames-international-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/thames-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Surya Bikram Gyawali Marg, Old Baneshwor, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "King's College",
+        "slug": "kings-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/WhatsApp_Image_2022-07-02_at_1.17.34_PM-crop-c0-5__0-5-302x128-70.jpeg",
+        "secondary_cover_image": null,
+        "full_address": "Babar Mahal, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Westcliff University, CA, USA",
+                "slug": "westcliff-university-ca-usa",
+                "org_type_lower": "university",
+                "short_name": "Westcliff"
+            }
+        ]
+    },
+    {
+        "title": "Premier College",
+        "slug": "premier-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Premier-college-cover-6_75SV2ZG-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/premier-scholarship-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "New Baneshwor, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "The British College",
+        "slug": "british-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/TBC_-_Edusanjal_banner-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Thapathali, Kathmandu",
+        "affiliations": [
+            {
+                "title": "ACCA",
+                "slug": "acca",
+                "org_type_lower": "university",
+                "short_name": ""
+            },
+            {
+                "title": "Cambridge GCE A Levels",
+                "slug": "cambridge-university",
+                "org_type_lower": "university",
+                "short_name": "A-Levels"
+            },
+            {
+                "title": "Leeds Beckett University, UK",
+                "slug": "leeds-beckett-university-uk",
+                "org_type_lower": "university",
+                "short_name": ""
+            },
+            {
+                "title": "University of the West of England UK",
+                "slug": "university-of-the-west-of-england-uk",
+                "org_type_lower": "university",
+                "short_name": "UWE"
+            }
+        ]
+    },
+    {
+        "title": "Islington College",
+        "slug": "islington-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/islington-edusanjal-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kamal Pokhari, Kathmandu",
+        "affiliations": [
+            {
+                "title": "London Metropolitan University",
+                "slug": "london-metropolitan-university",
+                "org_type_lower": "university",
+                "short_name": "Londonmet"
+            }
+        ]
+    },
+    {
+        "title": "Padmashree College",
+        "slug": "padmashree-international-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/padma_shree-05-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/Hoarding_2-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "Tinkune, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Nilai University, Malaysia",
+                "slug": "nilai-university-college-malaysia",
+                "org_type_lower": "university",
+                "short_name": ""
+            }
+        ]
+    },
+    {
+        "title": "Herald College Kathmandu",
+        "slug": "herald-college-kathmandu",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/herald-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bhagwati Marga, Naxal, Kathmandu",
+        "affiliations": [
+            {
+                "title": "University of Wolverhampton",
+                "slug": "university-wolverhampton",
+                "org_type_lower": "university",
+                "short_name": "UW"
+            }
+        ]
+    },
+    {
+        "title": "Kathmandu BernHardt College",
+        "slug": "kathmandu-bernhardt-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/kbc-cover-2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bafal, Kalanki, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kadambari Memorial College",
+        "slug": "kadambari-memorial-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/kadambari-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Buddhanagar, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepal Mega College",
+        "slug": "nepal-mega-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Nepal_Mega_College_cover_dbOlHND-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Babarmahal, Kathmandu",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Texas College of Management and IT",
+        "slug": "texas-international-college-management-and-it",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/TCMIT-Banner1-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Siphal, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Lincoln University College",
+                "slug": "lincoln-university",
+                "org_type_lower": "university",
+                "short_name": "lincoln"
+            }
+        ]
+    },
+    {
+        "title": "Mid-Valley International College",
+        "slug": "mid-valley-international-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/WhatsApp_Image_2021-12-30_at_3.29.57_PM-crop-c0-5__0-5-302x128-70.jpeg",
+        "secondary_cover_image": null,
+        "full_address": "Gyaneshwor, Kathmandu",
+        "affiliations": [
+            {
+                "title": "HELP University",
+                "slug": "help-university-college",
+                "org_type_lower": "university",
+                "short_name": "help"
+            }
+        ]
+    },
+    {
+        "title": "Triton International College",
+        "slug": "triton-international-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Triton-Cover36-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Subidhanagar, Tinkune, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "International School of Tourism and Hotel Management (IST College)",
+        "slug": "international-school-tourism-and-hotel-management",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/ist-college-cover-NEW-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gyaneshwor, Opposite to German Embassy, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Salzburg University of Applied Sciences",
+                "slug": "salzburg-university-of-applied-sciences",
+                "org_type_lower": "university",
+                "short_name": "salz"
+            }
+        ]
+    },
+    {
+        "title": "KFA Business School",
+        "slug": "kathmandu-frontier-s-associates-kfa",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/banner_2000X400-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Mid Baneshwor, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Lincoln University College",
+                "slug": "lincoln-university",
+                "org_type_lower": "university",
+                "short_name": "lincoln"
+            }
+        ]
+    },
+    {
+        "title": "​Kathmandu Business Campus",
+        "slug": "kathmandu-business-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/kbc-cover2_dluKrvl-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Banasthali, Balaju 16, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kathmandu Model College",
+        "slug": "kathmandu-model-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/kmc-cover-333-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bagbazar, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Modern Nepal College",
+        "slug": "modern-nepal-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/MNC-cover-edusanjal-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sorhakhutte, Naya Bazar, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Lord Buddha Education Foundation",
+        "slug": "lord-buddha-education-foundation",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/lbef-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Maitidevi, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Asia Pacific University of Technology & Innovation",
+                "slug": "asia-pacific-university-technology-innovation",
+                "org_type_lower": "university",
+                "short_name": "APU"
+            }
+        ]
+    },
+    {
+        "title": "SAIM College",
+        "slug": "saim-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/SAIM-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/Big_Poster_Outside-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "Old Baneswor Chowk, Kathmandu",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    }
+]

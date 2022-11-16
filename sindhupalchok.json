@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Jalbire Valley Campus",
+        "slug": "jalbire-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jalbire, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Avayananda Education Campus",
+        "slug": "abhayananda-education-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Indrawati, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Paanchpokhari Multiple Campus",
+        "slug": "paanchpokhari-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sipapokhara, Indrawati, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chautara Multiple Campus",
+        "slug": "chautara-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Chautara-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Chautara, Chautara Sangachokgadhi, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Kakaling Campus",
+        "slug": "kakaling-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Thulopakhar, Lisangkhu Pakhar, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Sindhu Valley Campus",
+        "slug": "sindhu-valley-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Melamchi, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sunkoshi Multiple Campus",
+        "slug": "sunkoshi-multiple-campus-sindhupalchok",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lamosangu, Sunkoshi, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jugal Multiple Campus",
+        "slug": "jugal-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sagachok, Chautara Sangachokgadhi, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Indrawati Campus",
+        "slug": "indrawati-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Melamchi, Melamchi, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Melamchi Valley Campus",
+        "slug": "melamchi-valley-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gyalthum, Helambu, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Thokarpa Samudayik Multiple Campus",
+        "slug": "thokarpa-samudayik-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Thokarpa, Sunkoshi, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Araniko College",
+        "slug": "araniko-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Barhabise, Barhabise, Sindhupalchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

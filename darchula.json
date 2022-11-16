@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Rastriya Campus",
+        "slug": "rastriya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dattu, Mahakali, Darchula",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Latinath Campus",
+        "slug": "latinath-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Marma, Darchula",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shree Krishna Snatak Campus",
+        "slug": "shree-krishna-snatak-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lali, Lekam, Darchula",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Shankarpur Campus",
+        "slug": "shankarpur-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Malikaarjun, Darchula",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gokuleshwar Multiple Campus",
+        "slug": "gokuleshwar-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gokuleshwar, Shailyashikhar, Darchula",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Darchula Multiple Campus",
+        "slug": "darchula-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khalanga, Mahakali, Darchula",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Api Nampa Campus",
+        "slug": "api-nampa-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Byas, Darchula",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "title": "Udbuddha College",
+        "slug": "udbuddha-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tansen, Purbakhola, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Masyam Ekikrit Campus",
+        "slug": "masyam-ekikrit-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Masyam, Tinau, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Argali Multiple Campus",
+        "slug": "argali-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Argali, Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shahid Multiple Campus",
+        "slug": "shahid-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Shahid-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Rampur, Palpa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mandavya Multiple Campus",
+        "slug": "Mandavya-Multiple-Campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Mandavya_Multiple_Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Madanpokhara, Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhairab Multiple Campus",
+        "slug": "bhairab-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chhahara, Rainadevi Chhahara, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tansen Multiple Campus",
+        "slug": "tansen-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Tansen-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Tansen-11, Kajipauwa, Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Palpa Multiple Campus",
+        "slug": "palpa-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Darchha Campus",
+        "slug": "darchha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Darchha, Rampur, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kishan Multiple Campus",
+        "slug": "kishan-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mathagadhi, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rambha Multiple Campus",
+        "slug": "rambha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rambha, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tribhuvan Multiple Campus Palpa",
+        "slug": "tribhuvan-multiple-campus-palpa",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Tribhuvan-Multiple-Campus-Palpa-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Tansen-2, Campus Road, Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shreenagar Integrated College",
+        "slug": "shreenagar-integrated-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Holangdi, Tansen,  Buddha Bihar, Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Lumbini Medical College and Teaching Hospital",
+        "slug": "lumbini-medical-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            },
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "JVT College Palpa",
+        "slug": "jvt-college-palpa",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nawa Adarsha Multiple Campus",
+        "slug": "nawa-adarsha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Deurali-1, Deurali, Ribdikot, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Millennium Multiple Campus",
+        "slug": "millennium-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tansen, Silkhan Tole, Tansen, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sarswoti Multiple Campus",
+        "slug": "sarswoti-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khasyauli, Ribdikot, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhairab Janata Multiple Campus",
+        "slug": "bhairab-janata-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhairabsthan-3, Bhairabsthan, Ribdikot, Palpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Baruwa Campus",
+        "slug": "baruwa-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Baruwa-Campus-Udaypur-Cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gaighat, Triyuga, Udayapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Udayashree Campus",
+        "slug": "udayashree-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Udayashree-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Katari, Katari, Udayapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jyoti Janata Multiple Campus",
+        "slug": "jyoti-janata-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Udaypur, Chaudandigadhi, Udayapur",
+        "affiliations": []
+    },
+    {
+        "title": "Shree Narad Adarsh Education Campus",
+        "slug": "shree-narad-adarsh-education-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Basaha, Chaudandigadhi, Udayapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Triyuga Janata Multiple Campus",
+        "slug": "triyuga-janta-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Triyuga-Janata-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Ghaighat, Triyuga, Udayapur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "title": "Shigas Education Campus",
+        "slug": "shigas-higher-secondary-school",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Raksaun, Budakot, Raksaun, Sigas, Baitadi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shreekot Multiple Campus",
+        "slug": "shreekot-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shreekot, Dogadakedar, Baitadi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nava Prabhat Campus",
+        "slug": "nava-prabhat-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Pancheshwar, Baitadi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Baitadi Shiksha Campus",
+        "slug": "baitadi-shiksha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dasharath Chand N.P.1,Shahilek, Dasharathchand, Dasharathchanda, Baitadi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Purachaudi Multiple Campus",
+        "slug": "puchoundi-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Hata, Purchaudi, Baitadi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Seti Goan Multiple Campus",
+        "slug": "seti-goan-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dilasaini, Baitadi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Manilek Multiple Campus",
+        "slug": "manilek-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Melauli - 04, Kanda, Melauli, Baitadi",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Patan Multiple Campus Baitadi",
+        "slug": "patan-multiple-campus-baitadi",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Patan, Patan, Baitadi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Jagannath Multiple Campus",
+        "slug": "jagannath-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/jagannath-Baitadi-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gothalapani, Dasharathchanda, Baitadi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Gokuleshwor Agriculture and Animal Science College",
+        "slug": "gokuleshwor-agriculture-and-animal-science-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dilasaini, Baitadi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Phulbari Campus",
+        "slug": "phulbari-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Phulbari 5, Phulbari, Baitadi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

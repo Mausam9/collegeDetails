@@ -1,0 +1,167 @@
+[
+    {
+        "title": "Namuna Bageshwori Multiple Campus",
+        "slug": "namuna-bageshwori-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Baireni, Benighat Rorang, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Salyantar Campus",
+        "slug": "salyantar-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Salyantar, Tripurasundari, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jaya Bageshwori Multiple Campus",
+        "slug": "jaya-bageshwori-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Malekhu, Benighat, Malekhu, Benighat Rorang, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Netrawati Samudayik Campus",
+        "slug": "netrawati-samudayik-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tripureshor, Tripurasundari, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chandrodaya Multiple Campus",
+        "slug": "chandrodaya-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Benighat-8, Benighat, Benighat Rorang, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Machchhindra Multiple Campus",
+        "slug": "machchhindra-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Naubise, Khanikhola, Naubise, Dhunibesi, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dhunibesi Adarsha Campus",
+        "slug": "dhunibesi-adarsha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jeevanpur-6, Jeevanpur, Dhunibesi, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Adarsha Multiple Campus, Dhading",
+        "slug": "adarsha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gajuri Bazar-1, Gajuri, Gajuri, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Dhading Multiple Campus",
+        "slug": "dhading-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Baireni-7, Mastar, Baireni, Galchi, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Simle Mahakali Multiple Campus",
+        "slug": "simle-mahakali-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Thakre, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nilkantha Multiple Campus",
+        "slug": "nilkantha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nilkantha-3, Dhading Besi, Nilkantha, Nilakantha, Dhading",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

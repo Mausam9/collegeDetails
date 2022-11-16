@@ -1,0 +1,181 @@
+[
+    {
+        "title": "Unique College of Medical Science",
+        "slug": "unique-college-medical-science",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Unique-college-of-Medical-Science-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Rajbiraj-7, Rajbiraj, Saptari",
+        "affiliations": [
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gobardhan Janta Campus",
+        "slug": "gobardhan-janta-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Phattepur, Saptakoshi, Saptari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Buddhilal Bidya Munar Campus",
+        "slug": "buddhilal-bidya-munar-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhagatpur, Shambhunath, Saptari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mahendra Bindeshwori Multiple Campus",
+        "slug": "mahendra-bindeshwori-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Mahendra-Bindeshwari-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Rajbiraj, Bishnupur, Saptari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Annapurna Multiple Campus",
+        "slug": "annapurna-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kanchanrup, Saptari",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "World Vision Modern Campus",
+        "slug": "world-vision-modern-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rajbiraj, Saptari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rajbiraj Model Campus",
+        "slug": "rajbiraj-model-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Rajbiraj-Model-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Rajbiraj, Saptari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Caliber International College",
+        "slug": "caliber-international-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rajbiraj, Saptari",
+        "affiliations": []
+    },
+    {
+        "title": "Saptarishi Multiple College",
+        "slug": "saptarishi-multiple-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rajbiraj, Saptari",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mission College",
+        "slug": "mission-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rajbiraj, Saptari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chandra Shatrughan Campus",
+        "slug": "chandra-shatrughan-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bode, Barsain, Bode Barsain, Saptari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gobardhan Multiple Campus",
+        "slug": "gobardhan-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Fattepur, 3, Phattepur, Saptakoshi, Saptari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

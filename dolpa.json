@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Dolpo Campus",
+        "slug": "dolpa-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dunai, Thuli Bheri, Dolpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Liku Multiple Campus",
+        "slug": "liku-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tripurasundari, Dolpa",
+        "affiliations": []
+    }
+]

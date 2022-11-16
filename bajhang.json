@@ -1,0 +1,113 @@
+[
+    {
+        "title": "Bajhangdeep Campus",
+        "slug": "bajhangdeep-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kedarseu, Bajhang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sunkuda Campus",
+        "slug": "sunkuda-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sunkuda chir, Sunkuda, Bithadchir, Bajhang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Thalara Multiple Campus",
+        "slug": "thalara-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Thalara, Thalara, Bajhang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Seti Campus",
+        "slug": "seti-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Matela, Chabispathivera, Bajhang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jaya Prithvi Multiple Campus",
+        "slug": "jaya-prithvi-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhopur, JayaPrithivi, Bajhang",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Shanti Aadarsha Campus",
+        "slug": "shanti-aadarsha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chaudhanpatan Byasi, Chaudhanpatan, Chabispathivera, Bajhang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shree Tribeni Aadarsh Multiple Campus",
+        "slug": "shree-tribeni-aadarsh-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nijgadh, Bungal, Nijgadh, Bungal, Bajhang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

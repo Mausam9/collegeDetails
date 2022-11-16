@@ -1,0 +1,272 @@
+[
+    {
+        "title": "School of Engineering | Mid-West University",
+        "slug": "mid-western-university-school-of-engineering",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "Bheri Multiple Campus",
+        "slug": "bheri-shiksha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gumi, Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "Bidhyapur Janta Multiple Campus",
+        "slug": "bidhyapur-janta-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bidhyapur, Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "Himshikhar Multiple Campus",
+        "slug": "himshikhar-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ramghat, Bheriganga, Surkhet",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gurbhakot Multiple Campus",
+        "slug": "gurdhakot-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gurbhakot, Surkhet",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Simta Multiple Campus",
+        "slug": "simta-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rakam, Simta, Surkhet",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Vidyapur Janata Multiple Campus Surkhet",
+        "slug": "vidyapur-janata-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Vidyapur, Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "School of Humanities and Social Sciences | Mid-West University",
+        "slug": "midwestern-university-school-of-humanities-social-sciences",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "Surkhet Campus",
+        "slug": "surkhet-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Surkhet-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar-9, Chakrapani, Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Management | Mid-West University",
+        "slug": "mid-western-university-school-of-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "School of  Education Science | Mid-West University",
+        "slug": "mid-western-university-school-education-science",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "School of Science and Technology | Mid-West University",
+        "slug": "midwestern-university-school-of-science-technology",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "School of Law | Mid-West University",
+        "slug": "mid-western-university-school-law",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "Surkhet Model College",
+        "slug": "surkhet-model-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar-8, Khajura, Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bright Mid-Western Agriculture and Forestry Campus",
+        "slug": "bright-mid-western-agriculture-and-forestry-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar -6, Airport, Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Birendranagar Multiple Campus",
+        "slug": "birendra-nagar-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chakrapani path, Chakrapani, Surkhet",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Applied College of Management and Education",
+        "slug": "applied-college-management-and-education",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sahara Campus",
+        "slug": "sahara-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/sahara-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar-08, Birendranagar, Surkhet",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

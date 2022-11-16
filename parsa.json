@@ -1,0 +1,235 @@
+[
+    {
+        "title": "National Infotech College",
+        "slug": "national-infotech-higher-secondary-school-and-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/National-Infotech-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Shiromani Tole , Birgunj -18, Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Birgunj Public College",
+        "slug": "birgunj-public-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/birgunj-public-college-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepal Ayurved Medical College and Teaching Hospital",
+        "slug": "nepal-ayurved-medical-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Nepal-ayurvedic-medical-admission-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Hari Khetan Multiple Campus",
+        "slug": "hari-khetan-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/hari-khetan-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Thakur Ram Multiple Campus",
+        "slug": "thakur-ram-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/thakur-ram-multiple-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Birgunj Commerce Campus",
+        "slug": "birgunj-commerce-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Birgunj Nursing Campus",
+        "slug": "birgunj-nursing-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Siddhartha   International College",
+        "slug": "siddhartha-international-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kabi Shiromani Tole, Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "National Medical College",
+        "slug": "national-medical-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Matrix College",
+        "slug": "matrix-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shreepur, Birgunj, Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "MB Kedia Dental College and Teaching Hospital",
+        "slug": "mb-kedia-dental-college-and-teaching-hospital",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            }
+        ]
+    },
+    {
+        "title": "Birgunj College",
+        "slug": "birgunj-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shreepur-11, Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Maharaja Agrasen College of Management",
+        "slug": "maharaja-agrasen-college-of-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birgunj, Parsa",
+        "affiliations": []
+    },
+    {
+        "title": "National Academy",
+        "slug": "national-academy",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Reshamkothi, Birgunj, Parsa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "title": "Hetauda Campus | Institute of Forestry",
+        "slug": "institute-of-forestry-hetauda-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Faculty of Forestry, Agriculture and Forestry University",
+        "slug": "faculty-forestry-agriculture-and-forestry-university",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Hetauda, Makawanpur, Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Palung Multiple Campus",
+        "slug": "palung-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Palung, Thaha, Makwanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Banshgopal Multiple Campus",
+        "slug": "banshgopal-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chaughada, Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Nirmal Multiple Campus",
+        "slug": "nirmal-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Basamadhi-2, Bastipur, Basamadhi, Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Makwanpur Multiple Campus",
+        "slug": "makawanpur-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/makwanpur_multiple_campus_COVER_3-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Hetauda-2, Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Hetauda Campus",
+        "slug": "hetauda-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Hetauda-Campus-Hetauda-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Zenith International College (Hetauda)",
+        "slug": "zenith-international-college-hetauda",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Hetauda City College",
+        "slug": "hetauda-city-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kantirajpath-4, Kantirajpath, Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Narayani College",
+        "slug": "narayani-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Hetauda-10, Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Hetauda School of Management",
+        "slug": "hetauda-school-management-and-social-sciences",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Hetauda-4, Hetauda, Makwanpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

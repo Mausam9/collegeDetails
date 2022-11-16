@@ -1,0 +1,158 @@
+[
+    {
+        "title": "Dhurkot Multiple Campus",
+        "slug": "dhurkot-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bastu, Dhurkot, Dhurkot, Gulmi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rudrawati Multiple Campus",
+        "slug": "rudrawati-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Wamitaksar, Musikot, Gulmi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chandrakot Campus",
+        "slug": "chandrakot-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shantipur, Chandrakot, Gulmi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janjyoti Campus Gulmi",
+        "slug": "janjyoti-campus-gulmi",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Purkordaha, Madane, Gulmi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Manka Tikaram Multiple Campus",
+        "slug": "manka-tikaram-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Turang, Majuwa, Turang, Chandrakot, Gulmi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Digam Aadarsh Multiple Campus",
+        "slug": "digam-aadarsh-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Digamkot, Chatrakot, Gulmi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Resunga Multiple Campus",
+        "slug": "resunga-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tamghas, Resunga, Gulmi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shringeeshor Campus",
+        "slug": "shringeeshor-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ranibas, Ruru, Gulmi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "RuRu Sanskrit Vidyapeeth",
+        "slug": "ruru-sanskrit-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ridi, Ruru, Gulmi",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Ridi Multiple Campus",
+        "slug": "ridi-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ridi Bazar, Ruru, Gulmi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

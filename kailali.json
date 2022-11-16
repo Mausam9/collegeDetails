@@ -1,0 +1,284 @@
+[
+    {
+        "title": "SPA College",
+        "slug": "sudur-paschimanchal-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/SPA-Cover22-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhangadhi-2, Santoshi Tole, Dhangadhi, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kailali Multiple Campus",
+        "slug": "kailali-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/KAILALI-MULTIPLE-CAMPUS-COVER-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhangadi, Dhangadhi, Kailali",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Tikapur Multiple Campus",
+        "slug": "tikapur-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/tikapur_campus_Cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Tikapur, kailali, Tikapur, Kailali",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Shivasurya Campus",
+        "slug": "shivasurya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chure, Kailali",
+        "affiliations": []
+    },
+    {
+        "title": "Khaptad Multiple Campus",
+        "slug": "khaptad-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Masuriya, Gauriganga, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rastriya College",
+        "slug": "rastriya-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sukhad, Ghodaghodi, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mahunyal Multiple Campus",
+        "slug": "mahunyal-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhajani, Bhajani, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Aishwarya Multiple Campus",
+        "slug": "aishwarya-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhangadhi, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Raghunath Aadarsha Multiple Campus",
+        "slug": "raghunath-aadarsha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Baunia, Bauniya, Joshipur, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Birendra Bidhya Mandir Campus",
+        "slug": "birendra-vidhya-mandir-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tikapur, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ghodaghodi Multiple Campus",
+        "slug": "ghoda-ghodi-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sukhad, Ghodaghodi, Kailali",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chaumala Multiple Campus",
+        "slug": "chaumala-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chaumala-2, Chaumala, Gauriganga, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Lamki Multiple Campus",
+        "slug": "lamki-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lamki, Lamkichuha, Kailali",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Durgalaxmi Multiple Campus",
+        "slug": "durga-laxmi-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Attariya, Godawari, Kailali",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "National Academy of Science and Technology (Dhangadi Engineering College)",
+        "slug": "national-academy-science-and-technology",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Uttar Behadi, Dhangadi-4, Dhangadhi, Kailali",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Nepal Western Management and Engineering College",
+        "slug": "nepal-western-management-and-engineering-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Santoshi Tole, Santoshi, Dhangadhi, Kailali",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Western International Business School",
+        "slug": "western-international-business-school",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhangadhi, Kailali",
+        "affiliations": []
+    },
+    {
+        "title": "Geta Medical College",
+        "slug": "geta-medical-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Geta Kailali, Geta, Kailali",
+        "affiliations": []
+    },
+    {
+        "title": "College of Natural Resource and Management-Tikapur",
+        "slug": "college-natural-resource-and-management-kailali",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tikapur, Kailali",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

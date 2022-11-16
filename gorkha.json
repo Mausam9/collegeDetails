@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Paropakar Adarsha Multiple Campus",
+        "slug": "paropakar-adarsha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jaubari, Siranchok, Gorkha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dullav Campus",
+        "slug": "dullav-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Masel, Ghyampesal, Bhimsen, Gorkha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhawani Multiple Campus",
+        "slug": "bhawani-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Palungtar, Palungtar, Gorkha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Drabya Shah Multiple Campus",
+        "slug": "drabya-shah-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gorkha-8, Laxmi Bazar, Gorkha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bheemodaya Multiple Campus",
+        "slug": "bheemodaya-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Aarughat, Aarughat, Gorkha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gorkha Campus",
+        "slug": "gorkha-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/gorkha-campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gorkha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhimoday Multiple Campus",
+        "slug": "bhimoday-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Aarughat, Gorakha, Aarughat, Aarughat, Gorkha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

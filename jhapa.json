@@ -1,0 +1,647 @@
+[
+    {
+        "title": "Shivagunj Multiple Campus",
+        "slug": "shivagunj-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shivagunj, Shivasatakshi, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Birendra Namuna Campus",
+        "slug": "birendra-namuna-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chandragadhi, Bhadrapur, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dhulabari Campus",
+        "slug": "dhulabari-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhulabari, Mechinagar, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            }
+        ]
+    },
+    {
+        "title": "Sita Ramesh Multiple Campus",
+        "slug": "sita-ramesh-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Budhabare 6, Budhabare, Buddhashanti, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kakarvitta Campus",
+        "slug": "kakarvitta-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mechinagar-6, Kakarvitta, Mechinagar, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Anarmani Public Campus",
+        "slug": "anarmani-public-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Anarmani, Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Madan Ashrit Memorial Multiple Campus",
+        "slug": "madan-ashrit-memorial-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Topgachhi, Kamal, Jhapa",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gauradaha  Multiple Campus",
+        "slug": "gauradaha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gauradhaha, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shanishchare Multiple Campus",
+        "slug": "shanishchare-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shanishchare, Arjundhara, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tridev Multiple Campus",
+        "slug": "tridev-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Charali, Mechinagar, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Laxmi Campus",
+        "slug": "laxmi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Baniyani, Kachankawal, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jagriti Campus",
+        "slug": "jagriti-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Goldhap, Haldibari, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gaurigung Campus",
+        "slug": "gaurigung-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gauriganj, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Damak Multiple Campus",
+        "slug": "damak-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Damak-Multiple-Campus-cOVER-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Damak, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kankai Multiple Campus",
+        "slug": "kankai-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Surunga, Kankai, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Devi Campus",
+        "slug": "devi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamod-6, Birtamod, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mechi Multiple Campus",
+        "slug": "mechi-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/mechi-multiple-campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bhadrapur, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gauradaha Agriculture Campus",
+        "slug": "gauradaha-agriculture-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gauradhaha, Jhapa",
+        "affiliations": []
+    },
+    {
+        "title": "Emerald (Academy) College",
+        "slug": "emerald-academy-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sagarmatha Chowk, Bhadrapur, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shreeyantra College",
+        "slug": "shree-yantra-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damak, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Niva Management and IT college",
+        "slug": "niva-management-and-it-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Anarmani‐4, Birtamod, Birtamode, Jhapa",
+        "affiliations": []
+    },
+    {
+        "title": "Jhapa Campus",
+        "slug": "jhapa-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damak, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Unique College",
+        "slug": "unique-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damak-13, Damak, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gomendra Multiple College",
+        "slug": "gomendra-multiple-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Balmiki Lincoln College",
+        "slug": "balmiki-lincoln-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamod, Jhapa",
+        "affiliations": [
+            {
+                "title": "Lincoln University College",
+                "slug": "lincoln-university",
+                "org_type_lower": "university",
+                "short_name": "lincoln"
+            }
+        ]
+    },
+    {
+        "title": "College for Higher Education",
+        "slug": "college-higher-education",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamode-6, Birtamod, Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Manakamana College",
+        "slug": "manakamana-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamode-1, Yatayat Office Road, Birtamod, Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kankai Aadarsh Campus",
+        "slug": "kankai-aadarsh-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamode-6, Kankai Tole, Birtamod, Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Himalayan Multiple College",
+        "slug": "himalayan-multiple-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mechinagar-3,Dhulabari, Mechinagar, Mechinagar, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Model Campus Damak",
+        "slug": "model-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damak-10, Model Chowk, Damak, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Amity College Jhapa",
+        "slug": "amity-college-jhapa",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamode-6, Mitranagaar, Birtamod, Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Aastha College",
+        "slug": "aastha-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damak, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Providence College of Management",
+        "slug": "providence-college-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Charpane, Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Purwanchal Agriculture Campus",
+        "slug": "purbanchal-agriculture-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Beldangi, Gauradaha - 1, Gauradhaha, Jhapa",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "B & C Medical College and Research Center",
+        "slug": "b-c-medical-college-and-research-center",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamode-5, Jhapa, Birtamod, Birtamode, Jhapa",
+        "affiliations": []
+    },
+    {
+        "title": "Siddhartha College of Management",
+        "slug": "siddhartha-college-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damak-12, Damak, Kamal, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Purwanchal College",
+        "slug": "purwanchal-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damak-9, Damak, Gauradhaha, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Indreni Campus",
+        "slug": "indreni-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birtamod, Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Projjwal Campus",
+        "slug": "projjwal-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gauradaha-8, Gauradaha, Birtamode, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Satashidham Multiple Campus",
+        "slug": "satashidham-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dudhe, Shivasatakshi, Jhapa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

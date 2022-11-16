@@ -1,0 +1,337 @@
+[
+    {
+        "title": "Forbes College",
+        "slug": "forbes-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Forbes-Cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kshetrapur, Jalma Hall Square, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "EHE European University, EurAka, Switzerland",
+                "slug": "ehe-european-university-euraka-switzerland",
+                "org_type_lower": "university",
+                "short_name": ""
+            }
+        ]
+    },
+    {
+        "title": "Balkumari College",
+        "slug": "balkumari-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/balkumari-college-cover2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Narayangarh, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rampur Campus",
+        "slug": "rampur-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rampur, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Faculty of Agriculture, Agriculture and Forestry University",
+        "slug": "faculty-agriculture-agriculture-and-forestry-university",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rampur, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Faculty of Animal Science, Veterinary Science and Fisheries, Agriculture and Forestry University",
+        "slug": "faculty-animal-science-veterinary-science-and-fisheries",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rampur, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Center for Biotechnology, Agriculture and Forestry University",
+        "slug": "center-biotechnology-agriculture-and-forestry-university",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bharatpur, Chitwan, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhuwani Shankar Multiple College",
+        "slug": "bhuwanishankar-multiple-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khaireni-4, Khaireni, Bharatpur, Khairahani, Chitwan",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Amar Janashakti Multiple Campus",
+        "slug": "amar-janashakti-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Amar-Janashakti-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Patihani, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Madi Campus Chitwan",
+        "slug": "madi-campus-chitwan",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Basantapur, Madi, Madi, Chitwan",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Uma Badi Adarsha Sherchan College",
+        "slug": "uma-badi-adarsha-sherchan-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dibyanagar, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shaheed Smarak College",
+        "slug": "shaheed-smarak-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bakhanpur, Sharada Nagar, Bakhanpur, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Arunodaya College",
+        "slug": "arunodaya-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gitanagar, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Saptagandaki Multiple Campus",
+        "slug": "saptagandaki-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/saptagandaki-multiple-campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bharatpur-10, Chitwan, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jana Adarsha Multiple Campus",
+        "slug": "jana-adarsha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Birendranagar-2, Birendranagar, Rapti, Chitwan",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Maiya Devi Girl's College",
+        "slug": "maiya-devi-kanya-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bharatpur-10, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Annapurna Multiple Campus Chitwan",
+        "slug": "annapurna-multiple-campus-chitwan",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Parbatipur, Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Harikumar Smarak College",
+        "slug": "harikumar-smarak-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shaheed Smriti  Multiple Campus",
+        "slug": "shaheed-smriti-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/shaheed-smriti-multiple-campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Ratnanagar, Bharatpur, Ratnanagar, Chitwan",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ratnanagar College",
+        "slug": "ratnanagar-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ratnanagar-2, Ratnagar, Ratnanagar, Chitwan",
+        "affiliations": []
+    },
+    {
+        "title": "Birendra Multiple Campus",
+        "slug": "birendra-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/birendra-multiple-campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bharatpur, Chitwan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

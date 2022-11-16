@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Basanta Multiple Campus",
+        "slug": "basanta-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Basantpur, Laligurans, Tehrathum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Hyatrung Jharana Campus",
+        "slug": "hyatrung-jharana-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Aathrai, Tehrathum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Myanglung Campus",
+        "slug": "myanglung-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Myanglung, Tamphula, Myanglung, Myanglung, Tehrathum",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Chhathar Campus",
+        "slug": "chhathar-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chhathar, Tehrathum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tehrathum Multiple Campus",
+        "slug": "tehrathum-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Aathrai, Tehrathum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

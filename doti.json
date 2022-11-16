@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Kedar Jyoti Punja Multiple Campus",
+        "slug": "kedar-jyoti-punja-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "BP Nagal, Badikedar, Doti",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ghanteshwar Seti Mahakali Multiple Campus",
+        "slug": "ghanteshwor-seti-mahakali-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Doti",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Sitaram Multiple Campus",
+        "slug": "sitaram-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jijodamanda, Ramashram, Jijodamanda, Shikhar, Doti",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Doti Multiple Campus",
+        "slug": "doti-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Doti-Multiple-Campus-Doti-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Silgadhi, Dipayal Silgadi, Doti",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

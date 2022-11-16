@@ -1,0 +1,326 @@
+[
+    {
+        "title": "Lumbini Banijya Campus",
+        "slug": "lumbini-banijya-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/LBC-Cover4-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Devinagar, Butwal, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Siddhartha Gautam Buddha Campus",
+        "slug": "siddhartha-gautam-buddha-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/sgb-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Butwal, Rupandehi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Paklihawa Campus",
+        "slug": "paklihawa-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Paklihawa-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bhairahawa, Siddharthanagar, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Central Campus: Lumbini Buddhist University",
+        "slug": "central-campus-lumbini-buddhist-university",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Parsa Chauraha, Lumbini, Lumbini Sanskritik, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Lumbini Buddhist University",
+                "slug": "lumbini-buddhist-university",
+                "org_type_lower": "university",
+                "short_name": "LBU"
+            }
+        ]
+    },
+    {
+        "title": "School of Development Studies and Applied Sciences - Lumbini Buddhist University",
+        "slug": "school-of-development-studies-and-applied-sciences-lbu",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lumbini, Devdaha, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Lumbini Buddhist University",
+                "slug": "lumbini-buddhist-university",
+                "org_type_lower": "university",
+                "short_name": "LBU"
+            }
+        ]
+    },
+    {
+        "title": "Butwal City College",
+        "slug": "butwal-city-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Butwal, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Lumbini Buddhist University",
+                "slug": "lumbini-buddhist-university",
+                "org_type_lower": "university",
+                "short_name": "LBU"
+            }
+        ]
+    },
+    {
+        "title": "Devdaha Adarsha Multiple Campus",
+        "slug": "devdaha-adarsha-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Devdaha-Adarsha-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Devdaha, Devdaha, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Haraiya Multiple Campus",
+        "slug": "haraiya-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Haraiya-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Rudrapur, Kanchan, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rammani Multiple Campus",
+        "slug": "rammani-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Rammani-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Aanandaban, Tillotama, Rupandehi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhairahawa Namuna Campus",
+        "slug": "bhairahawa-namuna-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhairahawa, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Liladhar Ghimire Chhapiya Janata College",
+        "slug": "liladhar-ghimire-chhapiya-janata-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhairahawa, Siyari, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rupandehi Campus",
+        "slug": "rupandehi-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Rupandehi-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bhairahawa, Siddharthanagar, Rupandehi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pashupati College",
+        "slug": "pashupati-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/pashupati-college-rupandehi-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Madhawaliya-4 kotihawa, Madhawaliya, Tillotama, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Parroha Multiple Campus",
+        "slug": "parroha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Murgiya, Ramnagar, Sainamaina, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shankarnagar Multiple Campus",
+        "slug": "shankarnagar-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Shankarnagar-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Shankarnagar-2, Shankarnagar, Tillotama, Rupandehi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Khudabagar Adarsh College",
+        "slug": "khudabagar-adarsh-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lumbini Sanskritik, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pharsatikar Yagyodaya Multiple Campus",
+        "slug": "pharsatikar-yagyodaya-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Farsatikar, Pharsatikar, Sudhdhodhan, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Sahid Narayan Pokharel Ramapur Campus",
+        "slug": "sahid-narayan-pokharel-ramapur-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/sahid-narayan-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sainamaina, Sainamaina, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tilottama Campus",
+        "slug": "tilottama-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Yogikuti, Butwal, Tillotama, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Bhairahawa Multiple Campus",
+        "slug": "bhairahawa-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/bhairahawa-multiple-campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bhairahawa, Siddharthanagar, Rupandehi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

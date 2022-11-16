@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Radijyula Shiksha Campus",
+        "slug": "radijyula-shiksha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Aathbiskot, Aathbiskot, Western Rukum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shital Campus",
+        "slug": "shital-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chaurjahari, Chaurjahari, Western Rukum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jahari Campus",
+        "slug": "jahari-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kholagaun-4, Chaurjahari, Western Rukum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Syarpu Multiple Campus",
+        "slug": "syarpu-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Banphikot, Banfikot, Western Rukum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sanibheri Education Campus",
+        "slug": "sanibheri-education-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Simli, Sani Bheri, Western Rukum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Simrutu Campus",
+        "slug": "simrutu-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tribeni, Western Rukum",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Musikot Multiple Campus",
+        "slug": "musikot-khalanga-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khalanga, Musikot, Western Rukum",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    }
+]

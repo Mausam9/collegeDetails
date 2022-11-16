@@ -1,0 +1,313 @@
+[
+    {
+        "title": "Campion College",
+        "slug": "campion-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Campion-Cover2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sanepa, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kathmandu College of Management",
+        "slug": "kathmandu-college-management",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/KCM_Cover_1300x300px-crop-c0-5__0-5-302x128.png",
+        "secondary_cover_image": null,
+        "full_address": "Gwarko, Lalitpur",
+        "affiliations": [
+            {
+                "title": "SIAM University, Thailand",
+                "slug": "siam-university-thailand",
+                "org_type_lower": "university",
+                "short_name": "SIAM"
+            }
+        ]
+    },
+    {
+        "title": "Patan College for Professional Studies",
+        "slug": "patan-college-professional-studies-pcps",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/patan-college-cover2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Behind Kan Devtasthan, Kupondole, Lalitpur",
+        "affiliations": [
+            {
+                "title": "University of Bedfordshire",
+                "slug": "university-bedfordshire-uob",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepal College of Information Technology",
+        "slug": "nepal-college-information-technology",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/ncit-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/3-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "Balkumari, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Nepal College of Management",
+        "slug": "nepal-college-management",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/NCM_Banner-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhobighat, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janakpur Engineering College, Kupondole",
+        "slug": "janakpur-engineering-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Janakpur-College-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kupondole, Lalitpur, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kantipur Engineering College",
+        "slug": "kantipur-engineering-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/kantipur_engineering_college-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/kec-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "Dhapakhel, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Cosmos College of Management and Technology",
+        "slug": "cosmos-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/cosmos-coverrr-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/CCMTAdmission-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "Tutepani, Near Satdobato, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "AITM College",
+        "slug": "asian-institute-technology-and-management",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/AITM-COVER_MmOfBAq-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Knowledge Village, Khumaltar Heights, Mahalaxmi, Lalitpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "International Management Institute, IMI, Switzerland",
+                "slug": "imi-university-center-switzerland",
+                "org_type_lower": "university",
+                "short_name": "IMI"
+            },
+            {
+                "title": "Birmingham City University",
+                "slug": "birmingham-city-university",
+                "org_type_lower": "university",
+                "short_name": "BCU"
+            }
+        ]
+    },
+    {
+        "title": "Quest International College",
+        "slug": "quest-international-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Quest-Cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gwarko, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Academy of Culinary Arts and Hospitality Management",
+        "slug": "academy-culinary-arts-and-hospitality-management",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/academy-of-culunary-arts-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lagankhel, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Lincoln University College",
+                "slug": "lincoln-university",
+                "org_type_lower": "university",
+                "short_name": "lincoln"
+            }
+        ]
+    },
+    {
+        "title": "Lalitpur Engineering College",
+        "slug": "lalitpur-engineering-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/LECi-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Chakupat, Patan Dhoka, Patan, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pulchowk Campus | Institute of Engineering",
+        "slug": "pulchowk-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Pulchowk-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Pulchowk, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Applied Food and Dairy Technology",
+        "slug": "college-applied-food-and-dairy-technology",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Purnachandi Road, Kumaripati, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Academia International College",
+        "slug": "academia-international-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Academia-International-College-cover2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gwarko Chowk, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Citizen College",
+        "slug": "citizen-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/cover-image-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/citizen_college_admission_open_btuENU2-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "Kumaripati, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Center for Leadership and Entrepreneurship",
+        "slug": "center-for-leadership-and-entrepreneurship",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Management_School-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Mahalaxmi Marg, Mahalaxmi, Lalitpur",
+        "affiliations": []
+    },
+    {
+        "title": "Sagarmatha College of Science and Technology",
+        "slug": "sagarmatha-college-science-and-technology",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/sagarmatha-college-of-science-and-technology-cover3-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": "https://media.edusanjal.com/__sized__/org_cover/bca-crop-c0-5__0-5-302x128-70.jpg",
+        "full_address": "Sanepa, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sagarmatha Engineering College",
+        "slug": "sagarmatha-engineering-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/sagarmatha-engineering-college-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sanepa, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kathford International College of Engineering and Management",
+        "slug": "kathford-international-college-engineering-and-management",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/kathford__cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Balkumari, Lalitpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

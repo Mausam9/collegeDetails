@@ -1,0 +1,128 @@
+[
+    {
+        "title": "J.S. Murarka Multiple Campus",
+        "slug": "js-murarka-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/J.S.-Murarka-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lahan, Siraha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bramhachari Damodrananda College",
+        "slug": "bramhachari-damodrananda-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ramnagar, Mirchaiya, Mirchaiya, Siraha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rampratap Ramprasad Tamang Janata Multiple Campus",
+        "slug": "rampratap-ramprasad-tamang-janata-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Shree-Rampratap-Ramprasad-Tamang-Janta-Multiple-Campu-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Ashanpur, Golbazar, Siraha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "S.S.M. Yadhav Multiple Campus",
+        "slug": "surya-narayan-satya-narayan-marwaita-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Siraha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Royal Softech College",
+        "slug": "royal-softech-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Siraha",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Lahan Everest College",
+        "slug": "everest-college-lahan",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lahan, Siraha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Devaki College of Management and Science",
+        "slug": "devaki-college-management-and-science",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mirchaiya, Mirchaiya, Siraha",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jwala Prasad Syo Wai Devi Murarka Campus",
+        "slug": "jwala-prasad-syo-wai-devi-murarka-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lahan, Siraha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

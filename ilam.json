@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Karfok Bidya Mandir Multiple Campus",
+        "slug": "karfok-bidya-mandir-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Suryodaya, Ilam",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mahendra Ratna Multiple Campus Ilam",
+        "slug": "mahendra-ratna-multiple-campus-ilam",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/mahendra-ratna-covers-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Ilam",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mangalbare Multiple Campus",
+        "slug": "mangalbare-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Deumai, Ilam",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Garuwa Multiple Campus",
+        "slug": "garuwa-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Danabari, Mai, Ilam",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ekatappa Multiple Campus",
+        "slug": "ekatappa-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Fakphokthum, Ilam",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ilam Community Agriculture Campus",
+        "slug": "ilam-community-agriculture-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ilam",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Modern Campus",
+        "slug": "modern-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ilam -3, Ilam",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Atmananda Multiple Campus",
+        "slug": "atmananda-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mangsebung Rural Municipality, Mangsebung, Ilam",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

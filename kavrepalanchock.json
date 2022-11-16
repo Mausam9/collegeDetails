@@ -1,0 +1,326 @@
+[
+    {
+        "title": "Glacier Educational Foundation",
+        "slug": "glacier-educational-foundation",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Banepa, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Engineering  | Kathmandu University",
+        "slug": "kathmandu-university-school-of-engineering",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/KU-COver-1-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhulikhel, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Medical Sciences  | Kathmandu University",
+        "slug": "kathmandu-university-school-medical-science",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/KUSMS-Cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhulikhel, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Law  | Kathmandu University",
+        "slug": "kathmandu-university-school-law",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/KUSL-Cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhulikhel, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Science | Kathmandu University",
+        "slug": "kathmandu-university-school-of-science",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/KU-COver2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhulikhel, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dhulikhel Sanjeevani Campus",
+        "slug": "dhulikhel-sanjeevani-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhulikhel, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mangal Jana Bijaya Campus",
+        "slug": "mangal-jana-bijaya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mangaltar, Roshi, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Parbati Multiple Campus",
+        "slug": "parbati-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhungakharka8, Geldung, Dhungakharka, Bethanchowk, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Prakash Campus",
+        "slug": "prakash-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhulnutar, Bhumlu, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sanjiwani College",
+        "slug": "sanjiwani-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhulikhel, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dapcha Krishna Multiple Campus",
+        "slug": "dapcha-krishna-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dapcha, Namobuddha, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Parbha Multiple Campus",
+        "slug": "parbha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Katike, Deurali, Chaurideurali, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Indreshwor Campus",
+        "slug": "indreshwor-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Panauti, Campus Road, Panauti, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kushadevi Campus",
+        "slug": "kushadevi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kushadevi-7, Kushadevi, Panauti, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kabhre Multiple Campus",
+        "slug": "kabhre-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Banepa, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sarbamangala Multiple Campus",
+        "slug": "sarbamangala-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Panchkhal-4, Panchkhal, Panchkhal, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tej Ganga Multiple Campus",
+        "slug": "tej-ganga-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Panauti, Kapalkot, Panauti, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kanpur Campus",
+        "slug": "kanpur-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kanpur, Namobuddha, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janak Multiple Campus",
+        "slug": "janak-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Methinkot-8, Methinkot, Namobuddha, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chaitanya Multiple Campus",
+        "slug": "chaitanya-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Banepa Municipality-6, Banepa, Kavrepalanchok",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

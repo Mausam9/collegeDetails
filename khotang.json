@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Simpani Campus",
+        "slug": "simpani-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khotehang, Khotang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Khotang Campus",
+        "slug": "khotang-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khotang Bazar, Khotehang, Khotang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Diktel Multiple Campus",
+        "slug": "diktel-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Diktel, Rupakot Majhuwagadhi, Khotang",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rawa Campus",
+        "slug": "rawa-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kharpa, Lamidanda, Khotang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Halesi Campus",
+        "slug": "halesi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mahadevsthan, Halesi Tuwachung, Khotang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

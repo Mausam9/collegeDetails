@@ -1,0 +1,194 @@
+[
+    {
+        "title": "Pratap Smiriti College",
+        "slug": "pratap-smiriti-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lamidanda, Kalinchok, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jiri campus",
+        "slug": "jiri-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jiri, Jiri, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Golmeshwar Campus",
+        "slug": "golmeshwar-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "MaLU-5, Malu, Tamakoshi, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kalinag Multiple Campus",
+        "slug": "kalinaga-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sunkhani, Kalinchok, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tripura Campus, Namdu",
+        "slug": "tripura-campus-namdu-dolakha",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Namdu, Baiteshwor, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gaurishankar Multiple Campus",
+        "slug": "gauri-shanker-campus-charikot",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhimeshwor Municipality-1, Charikot, Bhimeshwor, Bhimeshwor, Dolakha",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Charikot Multiple Campus",
+        "slug": "charikot-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lamabagar, Bhimeshwor, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Hanumanteshwar Campus",
+        "slug": "hanumanteshwar-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Baiteshwor, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jiri Buddhist College",
+        "slug": "jiri-buddhist-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jiri, Jiri, Dolakha",
+        "affiliations": [
+            {
+                "title": "Lumbini Buddhist University",
+                "slug": "lumbini-buddhist-university",
+                "org_type_lower": "university",
+                "short_name": "LBU"
+            }
+        ]
+    },
+    {
+        "title": "Sailung Campus",
+        "slug": "sailung-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Magapouwa, Sailung, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Melung Campus",
+        "slug": "melung-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Melung, Dolakha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "HIMSE Academy",
+        "slug": "himse-academy",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhimeshwor, Himse Chowk Charikot, Bhimeshwor, Bhimeshwor, Dolakha",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

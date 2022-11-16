@@ -1,0 +1,320 @@
+[
+    {
+        "title": "Nepalgunj Nursing Campus",
+        "slug": "nepalgunj-nursing-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Nepalgunj-Nursing-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kohalpur, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gyanodaya Multiple Public Campus",
+        "slug": "gyanodaya-multiple-public-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khajura, Khajura, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Laxmi Samudaik Multiple Campus",
+        "slug": "laxmi-samudaik-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kachanapur, Rapti Sonari, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bageshwori Multiple Campus",
+        "slug": "bageshwori-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Bageshwori-Academy-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kohalpur, Banke",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "Mahendra Multiple Campus Nepalgunj",
+        "slug": "mahendra-multiple-campus-nepalgunj",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Mahendra-Multiple-Campus-Nepalgunj-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bhansar Road, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Natural Resource Management (CNRM), Khajura",
+        "slug": "college-natural-resource-management-khajura",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khajura, Nepalgunj, Khajura, Banke",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kohalpur Model College",
+        "slug": "kohalpur-model-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kohalpur-3, Ujyalo Bazar, Kohalpur, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dynamic Multiple College",
+        "slug": "dynamic-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kohalpur, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Management",
+        "slug": "college-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Banke Education Campus",
+        "slug": "banke-education-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "New Bageshwari Academy College",
+        "slug": "bageshwori-academy",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kohalpur, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Brightland College",
+        "slug": "brightland-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Banke-Public-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Surkhet Road, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Banke Bageshwori Campus",
+        "slug": "banke-bageshwori-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Surkhet Road, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "City college of Management",
+        "slug": "city-college-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Pasang Lhamu Marga, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bheri Nursing College",
+        "slug": "bheri-nursing-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Belaspur, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Engineering and Management",
+        "slug": "college-of-engineering-and-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shitalnagar, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Alpine Management College",
+        "slug": "alpine-management-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Surkhet Road, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Kailpal Academy for Health Science",
+        "slug": "kailpal-academy-health-science",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Surkhet Road, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            }
+        ]
+    },
+    {
+        "title": "Nepalgunj College",
+        "slug": "nepalgunj-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Korenpur, Kasturi Marg, Nepalgunj, Banke",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepalgunj Medical College",
+        "slug": "nepalgung-medical-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nepalgunj, Kohalpur, Banke",
+        "affiliations": [
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Shivajan Multiple Campus",
+        "slug": "shivajan-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sitapati, Sharada, Salyan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Farula Multiple Campus",
+        "slug": "farula-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Darma, Salyan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sharada Campus, Salyan",
+        "slug": "sharada-campus-salyan",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shankhamul, Chhatreshwori, Salyan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Salyan Multiple Campus",
+        "slug": "salyan-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Salyan-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Khalanga, Sharada, Salyan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janakalyan Campus",
+        "slug": "janakalyan-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tharmare, Bagchaur, Salyan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bangad Campus",
+        "slug": "bangad-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bangad, Bangad Kupinde, Salyan",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

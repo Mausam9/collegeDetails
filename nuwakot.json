@@ -1,0 +1,143 @@
+[
+    {
+        "title": "Suryagadhi Community Campus",
+        "slug": "suryagadhi-samudayik-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Suryagadhi, Nuwakot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chandeswari Multiple Campus",
+        "slug": "chandeswari-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tupche, Bidur, Nuwakot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ranabhubaneshwari Campus",
+        "slug": "ranabhubaneshwari-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Devighat, Bidur, Nuwakot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tribhuvan Trishuli Multiple College",
+        "slug": "tribhuvan-trishuli-multiple-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Tribhuvan-Trishuli-Multiple-College-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Bidur, Nuwakot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Amar Jyoti Multiple Campus",
+        "slug": "amar-jyoti-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kharanitar, Tadi, Nuwakot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kumari Namuna Campus",
+        "slug": "kumari-namuna-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kumari-3, Belkotgadhi, Nuwakot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nuwakot Adarsha Multiple Campus",
+        "slug": "nuwakot-adarsha-bahumukhi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Batar, Bidur, Nuwakot",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Mahadev Multiple Campus",
+        "slug": "mahadev-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nuwakot, Nuwakot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jana Gyan Niketan Campus",
+        "slug": "jana-gyan-niketan-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Thanapati, Shivapuri, Nuwakot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

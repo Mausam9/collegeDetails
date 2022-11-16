@@ -1,0 +1,140 @@
+[
+    {
+        "title": "Chaturbhujeshwar Janata Multiple Campus",
+        "slug": "chaturbhujeshor-janta-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Chaturbhujeshwar-Janta-Multiple-Campus2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sukhepokhari,, Hariwan, Sarlahi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sarlahi Campus",
+        "slug": "sarlahi-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/sarlahi-campus-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Malangwa, Malangwa, Sarlahi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Narayan Multiple Campus",
+        "slug": "narayan-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sarlahi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Karmaiya Adarsha Janata Campus",
+        "slug": "karmaiya-adarsha-janata-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bagmati, Sarlahi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shubha Janta Multiple Campus",
+        "slug": "shubha-janta-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Barahathawa, Barahathawa, Sarlahi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janajyoti Multiple Campus Sarlahi",
+        "slug": "janajyoti-multiple-campus-sarlahi",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Janajyoti-Multiple-Campus-Sarlahi---cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lalbandi, Lalbandi, Sarlahi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shree Narayan Campus",
+        "slug": "shree-narayan-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ishowrpur, Ishworpur, Sarlahi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mahaveer Janata Multiple Campus",
+        "slug": "mahaveer-janata-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "haripur-9, Haripur, Haripur, Sarlahi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

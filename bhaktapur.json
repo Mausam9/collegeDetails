@@ -1,0 +1,320 @@
+[
+    {
+        "title": "Samriddhi College",
+        "slug": "samriddhi-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/sanriddhi-college-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lokanthali-16, Madhyapur Thimi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Khwopa College",
+        "slug": "khwopa-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/khwopa_3_2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dekocha-6, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Swastik College",
+        "slug": "swastik-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/swastik-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Madhyapur Thimi -3, Chardobato, Madhyapur Thimi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepal Engineering College (nec)",
+        "slug": "nepal-engineering-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/NEC-Cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Changunarayan, Changunarayan, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Kathmandu College of Technology",
+        "slug": "samajik-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/samajik-cover2-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Lokanthali, Madhyapur Thimi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Khwopa Engineering College",
+        "slug": "khwopa-engineering-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/khec_main_premises-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Libali, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhaktapur Multiple Campus",
+        "slug": "bhaktapur-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/bhaktapur-multiple-campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Doodhpati-17, Doodhpati, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sanothimi Campus",
+        "slug": "sanothimi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Madhyapur Thimi, Madhyapur Thimi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jana Adarsha Campus",
+        "slug": "jana-adarsha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Madhyapur Thimi, Madhyapur Thimi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sharada Campus",
+        "slug": "sharada-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kamal binayak, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bagiswori College",
+        "slug": "bagiswori-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Taulachhen, Chyamhasing, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Basu College",
+        "slug": "basu-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kalighat, Byasi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Adarsha Azad College",
+        "slug": "adarsha-azad-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhelukhel-11, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Khwopa College of Engineering",
+        "slug": "khwopa-college-of-engineering",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Libali, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Seabird International College",
+        "slug": "seabird-international-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Madhyapur Thimi, Madhyapur Thimi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Padma College",
+        "slug": "padma-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Durbar Square, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chakrabarti Habi Education Academy (College of Allied Health Science)",
+        "slug": "chakrabarti-habi-education-academy-college-allied-health-science",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Madhyapur Thimi, Madhyapur Thimi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kathmandu School of Law",
+        "slug": "kathmandu-school-law",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dadhikot, Suryabinayak, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janapremi College",
+        "slug": "janapremi-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/adarsha-janapremi-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Madhyapur Thimi-15 Kaushaltar, Madhyapur Thimi, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sainik Awasiya Mahavidyalaya Bhaktapur",
+        "slug": "sainik-awasiya-mahavidhyalaya",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sallaghari, Bhaktapur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

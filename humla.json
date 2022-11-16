@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Himjyoti Multiple Campus",
+        "slug": "himjyoti-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sarkegad, Humla",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Manasarowar Multiple Campus",
+        "slug": "manasarowar-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Simkot, Simikot, Humla",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

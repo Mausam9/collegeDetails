@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Janagyankunj Campus",
+        "slug": "janagyankunj-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chhedagad, Jajarkot",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bheri Gyanodaya Multiple Campus",
+        "slug": "bheri-gyanodaya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bheri, Jajarkot",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    }
+]

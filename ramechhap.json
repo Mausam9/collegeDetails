@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Tamakoshi Campus",
+        "slug": "tamakoshi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khimti, Likhu, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Himganga Campus",
+        "slug": "himganga-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sanghutar, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sharadodaya Multiple Campus",
+        "slug": "sharadoday-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Thosebazar, Gokulganga, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Siddheswar Education Public Campus",
+        "slug": "siddheswar-education-public-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bamti Bhandar, Bamtibhandar, Umakunda, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Manthali Sahid Smriti Multiple Campus",
+        "slug": "manthali-sahid-smriti-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Manthali-Sahid-Smriti-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Manthali-2, Manthali, Manthali, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gaurishankar Multiple Campus",
+        "slug": "gaurishankar-multiple-campus-ramechhap-bazar",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ramechhap Bazar, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sunapati Sahid Multiple Campus",
+        "slug": "sunapati-sahid-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bethan, Sunapati, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gauri Shankar Brihat Shiksha Campus",
+        "slug": "gauri-shankar-brihat-shiksha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Prayageshwar Multiple Campus",
+        "slug": "prayageshwar-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Pakarbas, Khadadevi, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mahendrodaya Campus",
+        "slug": "mahendrodaya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Manthali, Ramechhap",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Himal Darshan Campus",
+        "slug": "himal-darshan-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Necha, Necha Batase, Nechasalyan, Solukhumbu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dudhakoshi Multiple Campus",
+        "slug": "dudhakoshi-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Salyan, Nechasalyan, Solukhumbu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Sotang Public Campus",
+        "slug": "sotang-public-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Sotang-Public-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sotang, Solukhumbu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Solukhumbu Multiple Campus",
+        "slug": "solukhumbu-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Solukhumbu-Multiple-Campus2222-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Salleri, Solududhkunda, Solukhumbu",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "B.P.koirala Sanskrit Vidyapeeth",
+        "slug": "bpkoirala-sanskrit-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Salleri, Solukhumbu",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    }
+]

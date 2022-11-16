@@ -1,0 +1,151 @@
+[
+    {
+        "title": "Bhakti Aadarsh Campus",
+        "slug": "bhakti-aadarsh-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhote Odar, Sundarbazar, Lamjung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Pushpalata Multiple Campus",
+        "slug": "pushpalata-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Duipiple, Ramgha, Duipiple, Madhyanepal, Lamjung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sarbodaya Campus",
+        "slug": "sarbodaya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sundarbazar, Lamjung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ishaneshwar Campus",
+        "slug": "ishaneshwar-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhorletar, Madhyanepal, Lamjung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Matribhumi Campus",
+        "slug": "matribhumi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sundar Bazar, Sundarbazar, Lamjung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mangala Campus",
+        "slug": "mangala-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Suryapal, Sotipasal, Suryapal, Madhyanepal, Lamjung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Lamjung Campus",
+        "slug": "lamjung-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Lamjung-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Sundarbazar, Lamjung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Marsyangdi Multiple Campus",
+        "slug": "marsyangdi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Beshi Shahar, Besishahar, Lamjung",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janabikash College",
+        "slug": "janabikash-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Besishahar, Besishahar, Lamjung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepal Army Institute of Agricultural Sciences",
+        "slug": "nepal-army-institute-of-agricultural-sciences",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bagale Gaun, Ward No. 2, Besishahar, Lamjung",
+        "affiliations": []
+    }
+]

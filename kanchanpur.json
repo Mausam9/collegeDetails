@@ -1,0 +1,285 @@
+[
+    {
+        "title": "Siddhanath Science Campus",
+        "slug": "siddhanath-science-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Siddhanath-Science-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Mahendranagar, Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "School of Engineering  | Far Western University",
+        "slug": "far-western-university-school-engineering",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mahendranagar, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Janta Campus Punarbas",
+        "slug": "janta-campus-kanchanpur",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Punarwash, Tribhuvanbasti, Punarwash, Punarbas, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rauleshwar Janta Aadarsh Multiple Campus",
+        "slug": "rauleshwar-janta-aadarsh-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Beldandi, Beldandi, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhanu Multiple Campus",
+        "slug": "bhanu-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dodhara Chadani, Dodhara, Mahakali, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Shree Janaekta Multiple Campus",
+        "slug": "shree-janaekta-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jimuwa, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Baijnath Multiple Campus",
+        "slug": "baijnath-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jhalari, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kanchan Multiple Campus",
+        "slug": "kanchan-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Krishnapur, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mahakali Multiple Campus",
+        "slug": "mahakali-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shreepur, Belauri, Shreepur, Belauri, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kanchan Vidhya Mandir Community Campus",
+        "slug": "kanchan-bidhya-mandir-community-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sharada Sanskrit Vidyapeeth",
+        "slug": "sharada-sanskrit-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mahendranagar, Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Siddhanath Multiple Campus",
+        "slug": "siddhanath-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Siddhinath-Multiple-Campus-cove2r-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Mahendra Nagar, Mahendranagar, Kanchanpur",
+        "affiliations": []
+    },
+    {
+        "title": "Central Campus Far-Western University",
+        "slug": "central-campus-far-western-university",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Brixton College",
+        "slug": "brixton-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Buspark Road, Mahendranagar, Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Janajyoti Multiple Campus Mahendranagar",
+        "slug": "janajyoti-campus-mahendra-nagar",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhimdattnagar-18, Bhansi, Bhimdattnagar, Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bal Jagritee College",
+        "slug": "bal-jagritee-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mahendranagar, Aithpur-6, Mahendranagar, Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Amity College, Mahendranagar",
+        "slug": "amity-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mahendranagar, Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Krishna Baijanath Multiple Campus",
+        "slug": "krishna-baijanath-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jhalari, Shuklaphanta, Kanchanpur",
+        "affiliations": []
+    },
+    {
+        "title": "Varidhi College",
+        "slug": "varidhi-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mahendranagar, Bhimdatta, Kanchanpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

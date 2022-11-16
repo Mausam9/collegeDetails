@@ -1,0 +1,167 @@
+[
+    {
+        "title": "Chure Campus",
+        "slug": "chure-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bagnaha, Thakurbaba, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Mainapokhar Sharada Multiple Campus​",
+        "slug": "mainapokhar-sharada-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mainapokhar, Badhaiyatal, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sadashiva Multiple Campus",
+        "slug": "sadashiva-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Magaragadhi-2, Jayanagar, Magaragadhi, Barbardiya, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Manusha Tika Singh Thapa Multiple Campus",
+        "slug": "manusha-tika-singh-thapa-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Thakurbaba, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gurans Multiple Campus",
+        "slug": "gurans-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sanoshree-6, Sanoshree, Madhuwan, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Amar Shahid Multiple Campus",
+        "slug": "amar-shahid-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rajapur, Rajapur, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bardiya Multiple Campus",
+        "slug": "bardiya-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Deudhikala, Bansagadhi, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bansgadhi Multiple Campus",
+        "slug": "bansgadhi-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Motipur, Bansagadhi, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Babai Multiple Campus",
+        "slug": "babai-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gulariya, Gulariya, Bardiya",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "Janasewa Multiple Campus",
+        "slug": "janasewa-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhadhawar, Barbardiya, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nikunj Madhyawati Multiple Campus",
+        "slug": "nikunj-madhyawati-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Neulapur, Bardiya",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

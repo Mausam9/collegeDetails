@@ -1,0 +1,77 @@
+[
+    {
+        "title": "School of  Medicine | Karnali Academy of Health Sciences",
+        "slug": "karnali-academy-health-sciences-school-medicine",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chandannath, Jumla",
+        "affiliations": [
+            {
+                "title": "Karnali Academy of Health Sciences",
+                "slug": "karnali-academy-of-health-sciences",
+                "org_type_lower": "university",
+                "short_name": "KAHS"
+            }
+        ]
+    },
+    {
+        "title": "School of Public Health  |  Karnali Academy of Health Sciences",
+        "slug": "karnali-academy-health-sciences-school-public-health",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chandannath, Jumla",
+        "affiliations": [
+            {
+                "title": "Karnali Academy of Health Sciences",
+                "slug": "karnali-academy-of-health-sciences",
+                "org_type_lower": "university",
+                "short_name": "KAHS"
+            }
+        ]
+    },
+    {
+        "title": "Sciences School of Nursing | Karnali Academy of Health",
+        "slug": "karnali-academy-health-sciences-school-nursing",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chandannath, Jumla",
+        "affiliations": [
+            {
+                "title": "Karnali Academy of Health Sciences",
+                "slug": "karnali-academy-of-health-sciences",
+                "org_type_lower": "university",
+                "short_name": "KAHS"
+            }
+        ]
+    },
+    {
+        "title": "Jumla Multiple Campus",
+        "slug": "jumla-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chandannath, Jumla",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sinja Multiple Campus",
+        "slug": "sinja-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhapa, Sinja, Jumla",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

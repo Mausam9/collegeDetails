@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Bardibas Janta Multiple Campus",
+        "slug": "bardibas-janta-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bardibas, Bardibas, Mahottari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Yjnayavalkya Lakshminarayan Vidyapeeth",
+        "slug": "yjnayavalkya-lakshminarayan-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Matihan, Matihani, Mahottari",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "College of Natural Resource Management (CNRM), Bardibas",
+        "slug": "college-natural-resource-management-bardibas",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bardibas, Mahottari",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shree Durga Campus",
+        "slug": "shree-durga-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Manara, Manra Siswa, Mahottari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nav Kshitiz Campus",
+        "slug": "nav-kshitiz-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bardibas 8, Bardibas, Bardibas, Mahottari",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ramananda Bisheshwor Mahendra Campus",
+        "slug": "ramananda-bisheshwor-mahendra-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jaleshwor, Jaleswor, Mahottari",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

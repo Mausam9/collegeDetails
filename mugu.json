@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Mahadev Masta Chaturdev Campus",
+        "slug": "mahadev-masta-chaturdev-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ratapani, Khatyad, Mugu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rara Multiple Campus",
+        "slug": "rara-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ramgadhi, Chhayanath Rara, Mugu",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "title": "Gadhawa Multiple Campus",
+        "slug": "gadhawa-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gadhawa, Gadhawa, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Deukhuri Multiple Campus",
+        "slug": "deukhuri-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lamahi, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Yerawati Aadarsha Multiple Campus",
+        "slug": "yerawati-aadarsha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lalmatiya, Rapti, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rapti Babai Campus",
+        "slug": "rapti-babai-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tulsipur, Dang",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "​Purandhara Campus",
+        "slug": "purandhara-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Purandhara-5, Hansapur, Babai, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "University Vidyapeeth",
+        "slug": "university-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Beljhundi, Tulsipur, Dang",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Mahendra Multiple Campus, Dang",
+        "slug": "mahendra-multiple-campus-dang",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ghorahi, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janata Sanskrit Vidyapeeth",
+        "slug": "janata-sanskrit-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bijauri, Tulsipur, Dang",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Central Ayurveda Vidyapeeth",
+        "slug": "central-ayurveda-vidyapeetha",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bijauri, Tulsipur, Dang",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Ghorahi Campus",
+        "slug": "ghorahi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ghorahi, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Prithu Technical College",
+        "slug": "prithu-technical-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lamahi Municipality Ward -3, Bangaun, Lamahi, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Deepshikha College",
+        "slug": "deepshikha-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ghorahi, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gyan Deep College",
+        "slug": "gyan-deep-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tulsipur, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ambikeshwari Campus",
+        "slug": "ambikeshwari-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ghorahi-11, Ghorahi, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rapti Engineering College",
+        "slug": "rapti-engineering-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ghorahi, Ghorahi, Dang",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            },
+            {
+                "title": "Council for Technical Education and Vocational Training",
+                "slug": "ctevt",
+                "org_type_lower": "university",
+                "short_name": "CTEVT"
+            }
+        ]
+    },
+    {
+        "title": "Victoria International College",
+        "slug": "victoria-international-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ghorahi, Dang",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Midwest Academy and Research Institute College of Life Science",
+        "slug": "midwest-academy-and-research-institute-college-of-life-science",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tulsipur, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rapti Vidhyamandir Management College",
+        "slug": "rapti-vidhyamandir-management-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tulsipur, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Swarnim Deukhuri Campus",
+        "slug": "swarnim-deukhuri-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Lamahi, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mark International College",
+        "slug": "mark-international-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ghorahi-11, Ghorahi, Dang",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Tribhuvan Campus Tanahu",
+        "slug": "tribhuvan-campus-tanahu",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mane Chauka, Tanahun",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Aadikavi Bhanubhakta Multiple Campus",
+        "slug": "aadikavi-bhanubhakta-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Aadikavi-Bhanubhakta-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Damauli, Byas, Tanahun",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Abukhairani Campus",
+        "slug": "abukhairani-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Aanbu Khaireni, Anbukhaireni, Tanahun",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bandipur Campus",
+        "slug": "bandipur-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bandipur, Tanahun",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhanubhakta Multiple Campus",
+        "slug": "bhanubhakta-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khaireni, Belchautara, Khaireni, Shuklagandaki, Tanahun",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janjyoti Campus",
+        "slug": "janjyoti-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhimad, Bhimad, Tanahun",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Chijkumar Bishnukumari Campus",
+        "slug": "chijkumar-bishnukumari-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bandipur-1, Piple, Bandipur, Tanahun",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Purkot Kalika Campus",
+        "slug": "purkot-kalika-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Tanahu, Bhanu, Tanahun",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhanu Sanskrit Vidyapeeth",
+        "slug": "bhanu-sanskrit-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chudi, Tanahun",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Damauli College of Higher Studies",
+        "slug": "damauli-college-higher-studies",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damauli Bazar, Damauli, Tanahun",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Barahi College",
+        "slug": "barahi-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Damauli, Bayas-2, Damauli, Byas, Tanahun",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mahesh sanskrit Gurukulam Vidhyapeeth",
+        "slug": "mahesh-sanskrit-gurukulam-vidhyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Devghat, Devghat, Tanahun",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Paramananda Sanskrit Gurukulam Vidyapeeth",
+        "slug": "paramananda-sanskrit-gurukulam-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Devghat, Tanahun",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Parashar College",
+        "slug": "parashar-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "vyas-11, Damauli, Byas, Tanahun",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

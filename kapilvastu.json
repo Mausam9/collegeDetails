@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Gautam Buddha Multiple Campus",
+        "slug": "gautam-buddha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jayanagar 8,Gorusinghe, Jayanagar, Buddhabhumi, Kapilvastu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Phalahari Baba Multiple Campus",
+        "slug": "phalahari-baba-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Maharajganj Municipality-1, Maharajganj, Maharajgunj, Kapilvastu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nepal Adarsha Multiple Campus",
+        "slug": "nepal-adarsha-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Shivapur, Kapilvastu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Siddhartha Campus",
+        "slug": "siddhartha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Badganga, Banganga, Kapilvastu",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kapilvastu Multiple Campus",
+        "slug": "kapilvastu-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Taulihawa, Kapilvastu",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Buddhabhumi Campus",
+        "slug": "buddhabhumi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Barkulpur, Kapilvastu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Banganga Multiple Campus",
+        "slug": "badganga-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Motipur, Banganga, Kapilvastu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Lumbini Vision College",
+        "slug": "lumbini-vision-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Banganga-4, Kapilvastu, Banganga, Kapilvastu",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

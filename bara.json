@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Simara College",
+        "slug": "simara-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Simara, Jitpur Simara, Bara",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bakuliya Campus",
+        "slug": "bakuliya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhawanipur, Jitpur, Jitpur Bhawanipur, Jitpur Simara, Bara",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sapahi College",
+        "slug": "sapahi-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gadhimai, Kolhabi, Bara",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gauri Shankar Campus Bara",
+        "slug": "gauri-shankar-campus-bara",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nijgadh, Nijgadh, Bara",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dumarwana Multiple Campus",
+        "slug": "dumarwana-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dumarwana, Jitpur Simara, Bara",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ram Raja (M.B.S.) Multiple Campus",
+        "slug": "ram-raja-mbs-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kalaiya, Kalaiya, Bara",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mount Everest College",
+        "slug": "mount-everest-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Simara, Bara",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gadhimai Multiple Campus",
+        "slug": "gadhimai-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gadhimai, Bariyarpur, Gadhimai, Mahagadhimai, Bara",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

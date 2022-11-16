@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Gokundeshwar Campus",
+        "slug": "gokundeshwar-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhankutanagar, Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Hile Campus",
+        "slug": "hile-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Hile, Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jalpadevi Campus",
+        "slug": "jalpadevi-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Pakhribas, Pakhribas, Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Bhasha Campus, Dhankuta",
+        "slug": "bhasha-campus-dhankuta",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kagate, Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Budhuk Campus",
+        "slug": "budhuk-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Maunabudhuk-2, Maunabudhuk, Chaubise, Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dhankuta Multiple Campus",
+        "slug": "dhankuta-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Dhankuta-Multiple-Campus-Dhankuta-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dhankuta Municipality, Ward No.-06, Province 1, Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Liberty College Dhankuta",
+        "slug": "liberty-college-dhankuta",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Tulasi Mehar College",
+        "slug": "tulasi-mehar-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jitpur Campus",
+        "slug": "jitpur-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Arkhoule, Jitpur, Mahalaxmi, Dhankuta",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "College of Natural Resource and Management-Pakhribas",
+        "slug": "college-natural-resource-and-management-dhankuta",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Pakhribas, Pakhribas, Dhankuta",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[{
+    "title": "Myagdi Multiple Campus",
+    "slug": "myagdi-multiple-campus",
+    "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Myagdi-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+    "secondary_cover_image": null,
+    "full_address": "Phulbari, Beni, Beni, Myagdi",
+    "affiliations": [
+        {
+            "title": "National Examinations Board",
+            "slug": "neb",
+            "org_type_lower": "university",
+            "short_name": "Plus Two"
+        },
+        {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university",
+            "org_type_lower": "university",
+            "short_name": null
+        }
+    ]
+},
+{
+    "title": "​Mangala Shiksha Campus",
+    "slug": "mangala-shiksha-campus",
+    "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Mangala-Shiksha-Campus-crop-c0-5__0-5-302x128-70.jpg",
+    "secondary_cover_image": null,
+    "full_address": "Babiyachour-5, Babiyachour, Mangala, Myagdi",
+    "affiliations": [
+        {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university",
+            "org_type_lower": "university",
+            "short_name": null
+        }
+    ]
+},
+{
+    "title": "West Point College",
+    "slug": "west-point-college",
+    "cover_image": null,
+    "secondary_cover_image": null,
+    "full_address": "Arthunge-1 Beni Bazar, biruta, Arthunge, Beni, Myagdi",
+    "affiliations": [
+        {
+            "title": "Tribhuvan University",
+            "slug": "tribhuvan-university",
+            "org_type_lower": "university",
+            "short_name": null
+        }
+    ]
+}]

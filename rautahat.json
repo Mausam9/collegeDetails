@@ -1,0 +1,218 @@
+[
+    {
+        "title": "Juddha Campus",
+        "slug": "juddha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gaur, Gaur, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janajyoti Multiple Campus",
+        "slug": "janajyoti-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chandranigahpur, Chandrapur, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sublal Bhagawat Multiple Campus",
+        "slug": "sublal-bhagawat-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Santpur, Chandrapur, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jay Kishan Multiple Campus",
+        "slug": "jay-kishan-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Jay-Kishan-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Dewahhi Gonahi, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dudiawa Multiple Campus",
+        "slug": "dudiawa-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Phatuwa Bijayapur, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kewal Ramsurat Campus",
+        "slug": "kebal-ramsurat-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gujara, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sindureghari Multiple Campus",
+        "slug": "sindureghari-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Sindureghari-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Chandrapur, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Katahariya Multiple Campus",
+        "slug": "katahariya-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Katahariya-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Katahariya, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Madhya Rautahat Multiple Campus",
+        "slug": "madhya-rautahat-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Garuda, Bairiya, Garuda, Garuda, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Om College",
+        "slug": "om-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Santapur, Chandrapur, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Uttam Dhanwantari College",
+        "slug": "uttam-dhanwantari-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gaur, Rautahat",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Bagmati Multiple Campus",
+        "slug": "bagmati-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Pipara Bhalohiya, Pipara, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Maharshi Valmiki Campus",
+        "slug": "maharshi-valmiki-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gaur, Gaur, Rautahat",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gauri Shankar Yadav Campus",
+        "slug": "gauri-shankar-yadav-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gaur, Gaur, Rautahat",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

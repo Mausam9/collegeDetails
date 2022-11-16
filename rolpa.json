@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Nawa Nepal Campus",
+        "slug": "nawa-nepal-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Jugar, Rolpa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jaljala Multiple Campus",
+        "slug": "jaljala-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Liwang, Rolpa",
+        "affiliations": [
+            {
+                "title": "Mid-West University",
+                "slug": "mid-western-university",
+                "org_type_lower": "university",
+                "short_name": "MWU"
+            }
+        ]
+    },
+    {
+        "title": "College of Natural Resource Management (CNRM), Madichaur",
+        "slug": "college-natural-resource-management-madichaur",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Madichaur, Madi, Rolpa",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

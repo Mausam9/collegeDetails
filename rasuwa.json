@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Kalika Himalaya Campus",
+        "slug": "kalika-himalaya-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kalikasthan dhaibung - 5, Kalikasthan, Kalika, Rasuwa",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "title": "Panini Campus",
+        "slug": "panini-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Chutrabesi, Sandhikharka, Arghakhanchi",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Jyoti Multiple Campus",
+        "slug": "jyoti-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Thada, Sitganga, Arghakhanchi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Birendra Shiksha Campus",
+        "slug": "birendra-shiksha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mareng, Malarani, Arghakhanchi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Suryathum Multiple Campus",
+        "slug": "suryathum-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mareng, Chhatradev, Arghakhanchi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Harihar Shiksha Campus",
+        "slug": "harihar-shiksha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khidim, Pokharathok, Khidim, Panini, Arghakhanchi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Harihar Sanskrit Vidyapeeth",
+        "slug": "hairhar-sanskrit-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Khidim, Arghakhanchi",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Arghakhanchi Shiksha Campus",
+        "slug": "arghakhanchi-shiksha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Sandhikharka, Belbatika, Sandhikharka, Sandhikharka, Arghakhanchi",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "title": "Nagarik College",
+        "slug": "nagarik-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/College-cover-image-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gaindakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Siddhant Campus",
+        "slug": "siddhant-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Siddhant-cover-image-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gaidakot, Gaindakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Agriculture and Forestry University",
+                "slug": "agriculture-and-forestry-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Surya Bhakta Patanadevi Memorial College",
+        "slug": "surya-bhakta-patanadevi-memorial-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Surya-Bhatka-Patanadevi-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Gaindakot-2, Gaindakot, Gaidakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janajyoti Adarsha Campus",
+        "slug": "janajyoti-adarsha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Paragatinagar, Devchuli, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Aarungkhola Multiple Campus",
+        "slug": "aarungkhola-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Aarungkhola, Bardaghat, Madhyabindu, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mukundasen Multiple Campus",
+        "slug": "mukundasen-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Mukundpur-4, Mukundpur, Gaidakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Devchuli College",
+        "slug": "devchuli-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rajhar, Devchuli, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janak College",
+        "slug": "janak-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gaindakot, Gaidakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nawajagaran Multiple Campus",
+        "slug": "nawajagaran-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Nawajagaran-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Tamsariya-7, Chormara, Tamsariya, Madhyabindu, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janamukhi Aadarsha College",
+        "slug": "janamukhi-aadarsha-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Amarapuri 4, Amarapuri, Gaidakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nawalpur Multiple Campus",
+        "slug": "nawalpur-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Nawalpur-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Agyauli, Kawasoti, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Madhyabindu Multiple Campus",
+        "slug": "madhyabindu-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/madhyabuindu-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kawasoti-3, Nawalpur, Kawasoti, Nawalpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Lumbini Adarsha Degree College",
+        "slug": "lumbini-adarsh-degree-college",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Lumbini-Adarsh-Degree-College-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "kawasoti-5, Kawasoti, Nawalpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kolhuwa Multiple Campus",
+        "slug": "kolhuwa-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kolhuwa-5, Kolhuwa, Madhyabindu, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kumarwarti Multiple Campus",
+        "slug": "kumarwarti-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Kumarwarti-Multiple-Campus-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Kawasoti, Nawalpur",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Kalika Sanskrit Vidyapeeth",
+        "slug": "kalika-sanskrit-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gaindakot, Gaidakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "Lumbini ICT Campus",
+        "slug": "lumbini-ict-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gaindakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Oxford College of Engineering and Management",
+        "slug": "oxford-college-engineering-and-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Gaindakot-2, Gaindakot, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Pokhara University",
+                "slug": "pokhara-university",
+                "org_type_lower": "university",
+                "short_name": "PU"
+            }
+        ]
+    },
+    {
+        "title": "Biswojyoti Adarsh Multiple Campus",
+        "slug": "biswojyoti-adarsh-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Pragatinagar, Nawalpur",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Bajura Campus",
+        "slug": "bajura-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Badimalika Municipality – 08, Martadi, Bajura, Nepal, Badimalika, Bajura",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Badimalika Multiple Campus",
+        "slug": "badimalika-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Naubis, Budhiganga, Bajura",
+        "affiliations": [
+            {
+                "title": "Far-Western University",
+                "slug": "far-western-university",
+                "org_type_lower": "university",
+                "short_name": "FWU"
+            }
+        ]
+    },
+    {
+        "title": "Budhinanda Campus",
+        "slug": "budhinanda-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kolti, Budhinanda, Bajura",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

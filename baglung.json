@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Krishna Gandaki Campus",
+        "slug": "krishna-gandaki-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Narayansthan, Balewa, Baglung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Galkot Multiple Campus",
+        "slug": "galkot-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Galkot, Baglung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shantideep Multiple Campus",
+        "slug": "shantideep-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Kushmisera, Jaimuni, Baglung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Balewa Paiyunpata Multiple Campus",
+        "slug": "balewa-paiyunpata-multiple-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Baglung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Nishibhuji Janata Campus",
+        "slug": "nishibhuji-janata-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Dhorpatan, Baglung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dhawalagiri Multiple Campus",
+        "slug": "dhaulagiri-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Dhaulagiri-multiple-cover-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Baglung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Dignity College",
+        "slug": "dignity-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Baglung Bazar, Baglung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mahendra Multiple Campus Baglung",
+        "slug": "mahendra-multiple-campus-baglung",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Baglung",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

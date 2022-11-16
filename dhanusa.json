@@ -1,0 +1,299 @@
+[
+    {
+        "title": "Janaki College for Professional Studies",
+        "slug": "janaki-college-for-professional-studies",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Akshar Vidya Mandir, Janakpurdham,, Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Kathmandu University",
+                "slug": "kathmandu-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janakpur Campus",
+        "slug": "janakpur-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Ramsworup Ramsagar Multiple Campus",
+        "slug": "ramshwaroop-ramsagar-multiple-campus",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/RRM-janakpur-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janak Hajari Vidyapeeth",
+        "slug": "janak-hajari-vidyapeeth",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpurdham, Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "City College Janakpur",
+        "slug": "city-college-janakpur",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur Dham, Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Public Youth Campus Janakpur",
+        "slug": "youth-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shree Mithila Ayurveda College and Research Centre",
+        "slug": "mithila-ayurveda-college-and-research-center",
+        "cover_image": "https://media.edusanjal.com/__sized__/cover_photo/Mithila-ayurvedic-crop-c0-5__0-5-302x128-70.jpg",
+        "secondary_cover_image": null,
+        "full_address": "Nagarain – 5, Dhanusha, Nagarain, Nagarain, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Nepal Sanskrit University",
+                "slug": "nepal-sanskrit-university",
+                "org_type_lower": "university",
+                "short_name": "nsu"
+            }
+        ]
+    },
+    {
+        "title": "New Millennium College of Education",
+        "slug": "new-millennium-college-education",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Devichaur, Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Central Engineering College",
+        "slug": "central-engineering-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ramanand Chowk 8, Janakpur, Chhireshwornath, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Krishna Medical and Technical Research Centre",
+        "slug": "krishna-medical-and-technical-research-centre",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Sinha Health Foundation",
+        "slug": "sinha-health-foundation",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Bhamarpura Chowk, Janakpurdham, Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janaki Medical College",
+        "slug": "janaki-medical-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Ramadiya Bhawadi, Janakpurdham, Janakpur, Chhireshwornath, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Model Multiple College",
+        "slug": "model-multiple-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "National Examinations Board",
+                "slug": "neb",
+                "org_type_lower": "university",
+                "short_name": "Plus Two"
+            },
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Janaki College of Management",
+        "slug": "janaki-college-of-management",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Purbanchal University",
+                "slug": "purbanchal-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gauri Campus Janakpur",
+        "slug": "gauri-campus-janakpur",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rajarshi Janak Campus",
+        "slug": "rajarshi-janak-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Mithila College",
+        "slug": "mithila-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur- 4, Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Universal Academy College",
+        "slug": "universal-academy-college",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Adarshnagar, Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "B.P. Koirala Campus",
+        "slug": "bp-koirala-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Janakpur, Dhanusha",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]

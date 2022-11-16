@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Gramodaya Yugkabi Siddhicharan Campus",
+        "slug": "gramodaya-yugkabi-siddhicharan-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Likhu, Okhaldhunga",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Okhaldhunga Campus",
+        "slug": "okhaldhunga-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Siddhicharan, Okhaldhunga",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Shahid Adarsha Campus",
+        "slug": "shahid-adarsha-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Rampur, Molung, Okhaldhunga",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Rumjatar Campus",
+        "slug": "rumjatar-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Siddhicharan, Okhaldhunga",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Uma Katwal Campus",
+        "slug": "uma-katwal-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Nishankhe, Thulachhap, Nishankhe, Siddhicharan, Okhaldhunga",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    },
+    {
+        "title": "Gyan Jyoti Community Campus",
+        "slug": "gyan-jyoti-community-campus",
+        "cover_image": null,
+        "secondary_cover_image": null,
+        "full_address": "Phulawari, Champadevi, Okhaldhunga",
+        "affiliations": [
+            {
+                "title": "Tribhuvan University",
+                "slug": "tribhuvan-university",
+                "org_type_lower": "university",
+                "short_name": null
+            }
+        ]
+    }
+]
